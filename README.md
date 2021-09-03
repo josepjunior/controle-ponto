@@ -1,6 +1,6 @@
 # Construindo um sistema de controle de ponto e acesso com Spring Boot por meio de API REST
 
-### Objetivo: Projeto desenvolvido para aplicação de conhecimentos no Bootcamp Santander da Digital Innovation One:
+### Objetivo: Neste projeto, o desafio foi o de desenvolver uma API Rest para controle de ponto e acesso dos usuários de uma empresa.
 
 ## Stack utilizada
   * Java 16
